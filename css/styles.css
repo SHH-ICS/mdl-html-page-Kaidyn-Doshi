@@ -4,3 +4,11 @@
   background: #000;
   opacity: 0.001;
 }
+.demo-list-item {
+  width: 300;
+  color: white;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50;
+}
