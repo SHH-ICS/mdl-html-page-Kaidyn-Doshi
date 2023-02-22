@@ -16,3 +16,8 @@
 body {
   background-color: rgb(43, 128, 255); 
 }
+
+.mdl-layout__header-row {
+  align-items: center;
+  justify-content: center;
+}
